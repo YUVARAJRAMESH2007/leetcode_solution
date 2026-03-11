@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0771-jewels-and-stones) |
 ## Math
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/2396-strictly-palindromic-number) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
