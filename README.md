@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0941-valid-mountain-array) |
@@ -89,4 +90,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
