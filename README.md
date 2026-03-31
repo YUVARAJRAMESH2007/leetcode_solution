@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
@@ -99,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
