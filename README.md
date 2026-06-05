@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
