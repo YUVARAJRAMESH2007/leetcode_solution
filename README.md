@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-valid-mountain-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1732-find-the-highest-altitude) |
 ## Design
 |  |
