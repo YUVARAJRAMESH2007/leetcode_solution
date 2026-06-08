@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0771-jewels-and-stones) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
