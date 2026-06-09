@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-valid-mountain-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1572-matrix-diagonal-sum) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0904-fruit-into-baskets) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2396-strictly-palindromic-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Matrix
 |  |
 | ------- |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
