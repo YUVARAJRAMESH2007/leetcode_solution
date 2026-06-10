@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0242-valid-anagram) |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
