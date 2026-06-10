@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1108-defanging-an-ip-address) |
+| [1859-sorting-the-sentence](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1859-sorting-the-sentence](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1859-sorting-the-sentence) |
 ## Matrix
 |  |
 | ------- |
