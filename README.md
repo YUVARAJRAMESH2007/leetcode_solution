@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0507-perfect-number) |
 | [2396-strictly-palindromic-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
 |  |
