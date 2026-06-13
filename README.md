@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0412-fizz-buzz) |
+| [0556-next-greater-element-iii](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0556-next-greater-element-iii) |
 | [0657-robot-return-to-origin](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0771-jewels-and-stones) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0507-perfect-number) |
+| [0556-next-greater-element-iii](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0556-next-greater-element-iii) |
 | [2396-strictly-palindromic-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0556-next-greater-element-iii](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0556-next-greater-element-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2396-strictly-palindromic-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/2396-strictly-palindromic-number) |
