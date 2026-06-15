@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0048-rotate-image) |
+| [0367-valid-perfect-square](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0507-perfect-number) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0367-valid-perfect-square) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
