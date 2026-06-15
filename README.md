@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-valid-mountain-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
+| [0999-available-captures-for-rook](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0999-available-captures-for-rook) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0867-transpose-matrix) |
+| [0999-available-captures-for-rook](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0999-available-captures-for-rook) |
 | [1929-concatenation-of-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1929-concatenation-of-array) |
 | [2293-min-max-game](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/2293-min-max-game) |
 ## Sorting
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0867-transpose-matrix) |
+| [0999-available-captures-for-rook](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0999-available-captures-for-rook) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1672-richest-customer-wealth) |
