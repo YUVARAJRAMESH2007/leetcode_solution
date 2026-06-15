@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1929-concatenation-of-array) |
 | [2293-min-max-game](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/2293-min-max-game) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1672-richest-customer-wealth) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Binary Search
 |  |
 | ------- |
