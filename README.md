@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0415-add-strings) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0503-next-greater-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
