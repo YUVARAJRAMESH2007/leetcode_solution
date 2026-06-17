@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1732-find-the-highest-altitude) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1528-shuffle-string) |
 | [1859-sorting-the-sentence](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
