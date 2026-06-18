@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0867-transpose-matrix) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0904-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1732-find-the-highest-altitude) |
