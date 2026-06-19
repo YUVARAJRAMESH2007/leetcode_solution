@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-valid-mountain-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0941-valid-mountain-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0999-available-captures-for-rook](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0999-available-captures-for-rook) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/2574-left-and-right-sum-differences) |
