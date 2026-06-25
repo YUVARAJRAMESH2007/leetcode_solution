@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0496-next-greater-element-i) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1859-sorting-the-sentence](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1859-sorting-the-sentence) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 | [0918-maximum-sum-circular-subarray](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
