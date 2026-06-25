@@ -290,4 +290,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0206-reverse-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1971-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
