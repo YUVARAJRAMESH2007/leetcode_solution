@@ -1,37 +1,44 @@
 class Solution {
+    int parent[];
+    int rank[];
+
     public boolean validPath(int n, int[][] edges, int source, int destination) {
-        ArrayList<ArrayList<Integer>> graph=new ArrayList<>();
+        parent=new int[n];
+        rank=new int[n];
         for(int i=0;i<n;i++){
-            graph.add(new ArrayList<>());
+            parent[i]=i;
+            rank[i]=1;
         }
         for(int edge[]:edges){
-           int cityA = edge[0];
-            int cityB = edge[1];
-            graph.get(cityA).add(cityB);
-            graph.get(cityB).add(cityA);
-
+            union(edge[0],edge[1]);
         }
-        boolean[] visited=new boolean[n];
+        return find(source)==find(destination);
 
-        Queue<Integer> queue=new LinkedList<>();
-        visited[source]=true;
-        queue.add(source);
-        while(!queue.isEmpty()){
-            int current=queue.poll();
-            if(current==destination){
-                return true;
-            }
-            for(int neighbour:graph.get(current)){
-                if(!visited[neighbour]){
-                    visited[neighbour]=true;
-                    queue.add(neighbour);
-                }
-            }
-
-        }
-        return false;
+       
 
         
-        
+    }
+    void union(int x,int y){
+        int rootx=find(x);
+        int rooty=find(y);
+        if(rootx!=rooty){
+            if(rank[rootx]>rank[rooty]){
+                parent[rooty]=rootx;
+
+                            }
+            else if(rank[rootx]<rank[rooty]){
+                parent[rootx]=rooty;
+            }
+            else{
+                parent[rooty]=rootx;
+                rank[rootx]++;
+            }
+        }
+    }
+    int find(int x){
+        if(parent[x]!=x){
+            parent[x]=find(parent[x]);
+        }
+        return parent[x];
     }
 }
