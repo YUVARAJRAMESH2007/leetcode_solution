@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0412-fizz-buzz) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 | [0918-maximum-sum-circular-subarray](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0918-maximum-sum-circular-subarray) |
@@ -310,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1971-find-if-path-exists-in-graph) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
