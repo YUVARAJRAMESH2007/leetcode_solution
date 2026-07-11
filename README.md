@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
+| [0706-design-hashmap](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0867-transpose-matrix](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0867-transpose-matrix) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
+| [0706-design-hashmap](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
+| [0706-design-hashmap](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0706-design-hashmap) |
 | [1603-design-parking-system](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1603-design-parking-system) |
 ## Divide and Conquer
 |  |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0206-reverse-linked-list) |
+| [0706-design-hashmap](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0706-design-hashmap) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -327,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0062-unique-paths) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
