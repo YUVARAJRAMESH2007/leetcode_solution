@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0999-available-captures-for-rook) |
+| [1603-design-parking-system](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1929-concatenation-of-array) |
 | [2293-min-max-game](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/2293-min-max-game) |
 ## Sorting
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
+| [1603-design-parking-system](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1603-design-parking-system) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0303-range-sum-query-immutable) |
+| [1603-design-parking-system](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1603-design-parking-system) |
 ## Divide and Conquer
 |  |
 | ------- |
