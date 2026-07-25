@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0507-perfect-number) |
 | [0556-next-greater-element-iii](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0556-next-greater-element-iii) |
 | [2396-strictly-palindromic-number](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/2396-strictly-palindromic-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1859-sorting-the-sentence](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/1859-sorting-the-sentence) |
+| [3536-maximum-product-of-two-digits](https://github.com/YUVARAJRAMESH2007/leetcode_solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |
 | ------- |
